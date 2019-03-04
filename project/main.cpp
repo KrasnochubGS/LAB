@@ -8,4 +8,5 @@ int main()
     int a,b;
     cin>>a>>b;
     return 0;
+    cout<<"A+B="<<a+b;
 }
