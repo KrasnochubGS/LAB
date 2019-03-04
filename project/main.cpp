@@ -7,6 +7,5 @@ int main()
     cout << "Enter A and B:\n";
     int a,b;
     cin>>a>>b;
-    return 0;
     cout<<"A+B="<<a+b;
 }
